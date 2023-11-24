@@ -1,5 +1,5 @@
 # HIRMA: High-performance Implementation for RISC-V Microcontroller Applications
-CADLAB 2023 - Project
+CADLAB 2023 - Project (Verilog)
 ## Lastest version of the main project and other required programs are kept here.
 -----------------------------------------------------------------------------------------------------------
 
